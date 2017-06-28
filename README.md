@@ -8,13 +8,20 @@ Install guide:
 
 2. Add required MIB files to your system:
 I have downloaded required mibs from here: 
+
 http://downloads.hpe.com/pub/softlib2/software1/pubsw-linux/p1580676047/v124934/upd10.50mib.tar.gz
 and used mainly:
+
 -rw-r--r-- 1 root root  98745 jún 26 15:04 cpqhost.mib
+
 -rw-r--r-- 1 root root 270427 jún 26 15:04 cpqrack.mib
+
 -rw-r--r-- 1 root root     73 jún 26 15:04 rfc-1212.mib
+
 -rw-r--r-- 1 root root 105462 jún 26 15:04 rfc1213.mib
+
 -rw-r--r-- 1 root root   3776 jún 26 15:04 rfc-1215.mib
+
 
 
   Based on:
